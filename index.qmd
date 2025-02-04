@@ -1,0 +1,13 @@
+---
+title: "Welcome to My Website"
+author: "Altyn Baigaliyeva"
+date: "2025-02-03"
+format: 
+  html: 
+    theme: journal
+    toc: true
+---
+
+# Hello, World!
+
+Welcome to my Quarto website: [https://altynliv.github.io/](https://altynliv.github.io/)
